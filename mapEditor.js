@@ -6,7 +6,7 @@ TO DO
 
 1. On rect, line tool hover: add number of X and Y adding
 2. Add a highlight over current tile in Brush tool
-3. Clean up GitHub repo.
+3. Clean up GitHub repository.
 
 **/
 
