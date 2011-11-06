@@ -82,7 +82,6 @@ width:100px;
 }
 -->
 </style>
-	<script type="text/javascript" src="mapLoad.js"></script>
 
     
 </head>

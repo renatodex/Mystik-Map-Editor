@@ -10,7 +10,7 @@
 <link href="ajaxfileupload.css" type="text/css" rel="stylesheet" />
 <script type="text/javascript" src="load/ajaxfileupload.js"></script>
 
-        <script type="text/javascript" src="mapLoad2.js"></script>
+
         <link href="dnd/client/fileuploader.css" rel="stylesheet" type="text/css" />	
 
  <script type="text/javascript">
