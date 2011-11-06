@@ -1,0 +1,172 @@
+label.cabinet
+{
+position: relative;
+position:relative;
+background:#FFFBCC;
+padding:5px;
+border:4px dashed #BFB971;
+font:22pt Georgia;
+color:#756F2D;
+text-align:center;
+width:400px;
+height:45px;
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+}
+label.cabinet:hover
+{
+background:#DBE8FF;
+padding:5px;
+border:4px dashed #7192BF;
+font:22pt Georgia;
+color:#2D4B75;
+text-align:center;
+width:400px;
+height:45px;
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+}
+#stats-table, #stats-table th
+{
+font:12px verdana;
+border:1px solid #9C6464;
+border-collapse:collapse;
+text-align:center;
+}
+#stats-table td {
+border:1px solid #9C6464;
+border-collapse:collapse;
+background:#EBD3D3;
+padding:5px;
+text-align:left;
+ }
+#stats-table .top {
+background:#DB9191;
+font-weight:bold;
+}
+.stats_row {
+    text-align:left;
+    font-weight:bold;
+}
+#stats-table th
+{
+background:red;
+color:white;
+padding:5px;
+}
+#info-table, #info-table th
+{
+font:12px verdana;
+border:1px solid #7FA641;
+border-collapse:collapse;
+text-align:center;
+}
+#info-table td {
+border:1px solid #7FA641;
+border-collapse:collapse;
+background:#F9FFE3;
+padding:5px;
+text-align:left;
+ }
+#info-table .top {
+background:#A6CC6C;
+font-weight:bold;
+}
+.info_row {
+    text-align:left;
+    font-weight:bold;
+}
+#info-table th
+{
+background:#C1D1A1;
+color:white;
+padding:5px;
+}
+#monsters-table {
+    margin-right:10px;
+}
+#items-table, #monsters-table {
+    width:153px;
+    margin-top:10px;
+}
+#items-table, #items-table th, #items-table td
+{
+font:12px verdana;
+font-weight:bold;
+border:1px solid #4166A6;
+border-collapse:collapse;
+text-align:center;
+background:#DFE4ED;
+}
+#items-table .top {
+background:#6C8FCC;
+}
+#items-table th
+{
+background-color:#A1B3D1;
+color:white;
+padding:5px;
+}
+#map-table, #map-table th, #map-table td
+{
+border:1px solid #A68141;
+border-collapse:collapse;
+font:12px verdana;
+font-weight:bold;
+}
+#map-table tbody {
+    border-bottom:1px solid #A68141;
+}
+#map-table .top {
+background:#CCA46C;
+}
+#map-table th
+{
+background-color:#D1BCA1;
+color:white;
+padding:5px;
+}
+.nothing {
+font:12px verdana;
+font-weight:bold;
+text-align:center;
+padding:5px;
+color:red;
+}
+#monsters-table, #monsters-table th, #monsters-table td
+{
+font:12px verdana;
+font-weight:bold;
+border:1px solid #474747;
+border-collapse:collapse;
+}
+#monsters-table .top {
+background:#525252;
+}
+#monsters-table th
+{
+background-color:#9C9C9C;
+color:white;
+padding:5px;
+}
+#monsters-table td {
+background:#E0E0E0;
+}
+.t_mon, .t_item, .t_map {
+width:32px;
+text-align:center;
+}
+.mon_row, .item_row {
+width:50px;
+height:50px;
+text-align:center;
+}
+.numbers, .i_numbers {
+padding:10px;
+text-align:center;
+}
+.monster {
+padding:10px;
+}    
